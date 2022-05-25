@@ -18,8 +18,8 @@ namespace CleanArchitecture.Infrastructure.Identity.Seeds
             {
                 UserName = "basicuser",
                 Email = "basicuser@gmail.com",
-                FirstName = "John",
-                LastName = "Doe",
+                FirstName = "Basic",
+                LastName = "User",
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true
             };
